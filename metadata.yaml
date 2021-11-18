@@ -1,0 +1,35 @@
+_repo: After-the-Manner-of-Men_66631
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Becher, Arthur E.
+    alias: Becher, A. E. (Arthur E.)
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '31735'
+    url: http://www.gutenberg.org/2009/agents/31735
+  - agent_name: Lynde, Francis
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '2626'
+    url: http://www.gutenberg.org/2009/agents/2626
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Lynde
+description: ''
+gutenberg_issued: '2021-10-30'
+identifiers:
+  gutenberg: '66631'
+language: en
+pgterms:marc905: 20200916143853lynde
+pgterms:marc906: '1916'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Charles Scribner's Sons,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: After the Manner of Men
+url: http://www.gutenberg.org/ebooks/66631
